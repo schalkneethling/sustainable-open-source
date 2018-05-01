@@ -10,3 +10,7 @@ https://docs.google.com/presentation/d/1MhSC7GQAQ4qLvbfLhXmOB5FayXAfTQtqmVGRsMQw
 
 A guide to setting up semantic-release and commitizen on your project:
 https://medium.com/@schalkneethling/automate-package-releases-with-semantic-release-and-commitizen-d7d4c337f04f
+
+## Twitter Accounts to Follow
+
+[SustainOSS](https://twitter.com/SustainOSS/)
