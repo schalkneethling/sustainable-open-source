@@ -14,5 +14,5 @@ This thread is to solicit ideas for how open source software can be sustained at
 
 ## Twitter Accounts to Follow
 
-[SustainOSS](https://twitter.com/SustainOSS/)
-[ThirdWorldProblems](https://twitter.com/w0rldproblems)
+* [SustainOSS](https://twitter.com/SustainOSS/)
+* [ThirdWorldProblems](https://twitter.com/w0rldproblems)
