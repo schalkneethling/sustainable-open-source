@@ -6,6 +6,8 @@ Tips, guides, and best practices to make maintaining open source projects more..
 * [Resource Lists](https://github.com/schalkneethling/sustainable-open-source/blob/master/lists.md)
 * [Podcasts](https://github.com/schalkneethling/sustainable-open-source/blob/master/podcasts.md)
 
+Have a suggestion? Please send me a [pull request](https://help.github.com/articles/about-pull-requests/)
+
 ## The Slides
 
 Slides from my micro-talk :)
