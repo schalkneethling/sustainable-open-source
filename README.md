@@ -1,6 +1,11 @@
 # sustainable-open-source
 Tips, guides, and best practices to make maintaining open source projects more... maintainable
 
+* [Good Reads](https://github.com/schalkneethling/sustainable-open-source/blob/master/good-reads.md)
+* [Inspirational Talks](https://github.com/schalkneethling/sustainable-open-source/blob/master/inspirational-talks.md)
+* [Resource Lists](https://github.com/schalkneethling/sustainable-open-source/blob/master/lists.md)
+* [Podcasts](https://github.com/schalkneethling/sustainable-open-source/blob/master/podcasts.md)
+
 ## The Slides
 
 Slides from my micro-talk :)
